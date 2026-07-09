@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR4k0057/kf/v1
+canonical_location: https://kanripo.org/bkk/KR4k0057/kf/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0057_000-kf.yaml, hash: 'sha256:d859a5acac43d68104b581fc9fb6b2357c2bb74095c5194e1020dda801907e79'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0057_000-kf.markers.yaml, hash: 'sha256:90bbbb6982b2226227bbb44c7c9cee8095971d656e8d6155758bb81354d6d1eb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0057_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 148428
+  label: ''
+  type: section
+  level: 1
+metadata:
+  title: 剪燈新話
+  identifiers:
+    krp: KR4k0057
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0057.xml
+  edition:
+    short: kf
+hash: sha256:a6fa4ba7df3c715df571f83c07b76763a20cc3c6f5edcd49aeb92852d61c1ed9
